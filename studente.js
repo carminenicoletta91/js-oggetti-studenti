@@ -38,6 +38,3 @@ for(var i = 0; i < studenti.length; i++){
 /* Dare la possibilità all’utente attraverso 3 prompt di
 aggiungere un nuovo oggetto studente inserendo
 nell’ordine: nome, cognome e età.*/
-var nomeut = prompt("Inserisci il nome del nuovo utente");
-studenti.nome.push({nomeut});
-console.log(studenti);
